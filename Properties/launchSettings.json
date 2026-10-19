@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CTDLGT-Buoi02-BoSung-31251021883": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
